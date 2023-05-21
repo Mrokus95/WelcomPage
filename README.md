@@ -1,1 +1,1 @@
-# WelcomPage
+# WelcomePage
